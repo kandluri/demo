@@ -48,7 +48,7 @@ return driver;
 
 
 }
-
+//screenshots
 
 public String getScreenShotPath(String testCaseName,WebDriver driver) throws IOException
 {
